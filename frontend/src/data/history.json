@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Liga Municipal de Futebol de Taubaté",
+    "organisation": "Prefeitura",
+    "startDate": "Julho, 2022",
+    "endDate": "Fevereiro, 2023",
+    "experiences": ["Auxiliar frontend", "Cheguei a desenvolver uma página FullStack com PHP e MySQL (página BID)"],
+    "imageSrc": "history/google.png"
+  }
+]
