@@ -16,7 +16,7 @@ const About = () => {
           <div className={styles.aboutItemText}>
             <h3>FrontEnd</h3>
             <p>Tenho conhecimentos sólidos em HTML e CSS. Desenvolvo majoritariamente em ReactJS
-               e já utilizei ferramentas como bootstrap e React Icons.</p>
+               e já utilizei ferramentas como bootstrap e React Icons, além da linguagem de programação PHP.</p>
           </div>
         </li>
 
@@ -34,8 +34,8 @@ const About = () => {
           <img src={getImageurl("about/cursorIcon.png")} alt="UI/UX" />
           <div className={styles.aboutItemText}>
             <h3>Tragetória</h3>
-            <p>Tenho 18 anos atualmente, mas comecei aos 16 no desenvolvimento web usadno PHP. Fui aprimorando meus conhecimentos e atualmente
-              estou cursando ensino superior em Análise e Desenvolvimento de Sistemas. Veja minhas habilidades gerais e meus projetos abaixo!
+            <p>Tenho 20 anos atualmente, mas comecei aos 16 no desenvolvimento web usadno PHP. Fui aprimorando meus conhecimentos e atualmente
+              estou recém formado no ensino superior em Análise e Desenvolvimento de Sistemas. Veja minhas habilidades gerais e meus projetos abaixo!
             </p>
           </div>
         </li>
